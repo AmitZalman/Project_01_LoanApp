@@ -96,7 +96,4 @@ The trained model must:
 
 ---
 
-## 👤 Author
-Amit zalman
-A.I 
-Built as part of a hands-on machine learning and deployment learning process.
+
